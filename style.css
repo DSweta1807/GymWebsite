@@ -3,7 +3,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('../img/people-2604149_1920.jpg') no-repeat;    
+    background: url('people-2604149_1920.jpg') no-repeat;    
     height: 100vh;
     /* width: 2000px; */
     font-family: 'Baloo Bhai 2', cursive;
